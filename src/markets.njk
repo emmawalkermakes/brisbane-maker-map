@@ -1,0 +1,53 @@
+---
+layout: page.njk
+title: Brisbane handmade market calendar (Nov–Dec 2026)
+description: Upcoming handmade and Christmas markets and maker workshops around Brisbane, with times, venues and links to each organiser's page.
+permalink: /markets/
+---
+<p class="note"><strong>Check the organiser's page before you go.</strong> Dates below were checked against organisers' own pages on {{ markets.checked }}. Weather, venue changes and cancellations happen, and this page isn't affiliated with any organiser.</p>
+<div class="tool">
+  <label for="filter">Show</label>
+  <select id="filter">
+    <option value="upcoming">All upcoming</option>
+    <option value="week">Next 7 days</option>
+    <option value="twilight">Twilight markets</option>
+    <option value="market">Day markets</option>
+    <option value="workshop">Workshops</option>
+  </select>
+  <p id="count" class="meta" aria-live="polite"></p>
+  <ul class="results" id="events">
+  {%- for e in markets.events %}
+    <li data-date="{{ e.date }}" data-type="{{ e.type }}">
+      <span class="pill">{{ e.day }}</span><strong>{{ e.name }}</strong><br>
+      {{ e.venue }} &middot; {{ e.time }}{% if e.note %}<br><span class="meta">{{ e.note }}</span>{% endif %}<br>
+      <a href="{{ e.source }}" rel="noopener">Organiser's page</a>
+    </li>
+  {%- endfor %}
+  </ul>
+</div>
+<h2>Regular weekly markets and sessions</h2>
+<ul class="results">
+{%- for m in markets.weekly %}
+  <li><strong>{{ m.name }}</strong><br>{{ m.venue }} &middot; {{ m.time }}<br><span class="meta">{{ m.note }}</span><br><a href="{{ m.source }}" rel="noopener">Organiser's page</a></li>
+{%- endfor %}
+</ul>
+<p>Planning a Christmas shopping day? Read <a href="/posts/brisbane-christmas-markets-2026/">Brisbane Christmas Markets 2026: every date in one list</a>.</p>
+<script>
+(function () {
+  var items = Array.prototype.slice.call(document.querySelectorAll("#events li"));
+  var sel = document.getElementById("filter"), count = document.getElementById("count");
+  function today() { var d = new Date(); return new Date(d.getFullYear(), d.getMonth(), d.getDate()); }
+  function parse(s) { var p = s.split("-"); return new Date(+p[0], +p[1] - 1, +p[2]); }
+  function apply() {
+    var t = today(), wk = new Date(t.getTime() + 7 * 864e5), v = sel.value, n = 0;
+    items.forEach(function (li) {
+      var d = parse(li.dataset.date), show = d >= t;
+      if (v === "week") show = show && d <= wk;
+      if (v === "twilight" || v === "market" || v === "workshop") show = show && li.dataset.type === v;
+      li.hidden = !show; if (show) n++;
+    });
+    count.textContent = n ? n + " listed" : "Nothing listed for this filter. Try 'All upcoming' or check back for new dates.";
+  }
+  sel.addEventListener("change", apply); apply();
+})();
+</script>
