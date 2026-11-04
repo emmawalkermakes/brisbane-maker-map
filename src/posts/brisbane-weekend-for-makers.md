@@ -72,7 +72,7 @@ A practical note from the studio's own page: in hot, humid weather, candles may 
 
 ### Creekside Pottery Studio, Samford Valley
 
-Themed hand-building workshops in the Samford Valley, with clay, tools, glazes and firing included. On **Friday 20 November 2026 (6.30pm to 9.30pm)** there's a Christmas Candles and Tree workshop where you make two clay candles and a small tree. Pieces are fired and glazed after the session and are usually ready to collect within two to three weeks. [Workshops page](https://creeksidepottery.com.au/workshops/)
+Themed hand-building workshops in the Samford Valley, with clay, tools, glazes and firing included. On **Friday 20 November 2026 (6.30pm to 9pm)** there's a Christmas Candle workshop where you make two clay Christmas candles (a separate Christmas Tree workshop runs the next day). Pieces are fired and glazed after the session and are usually ready to collect within two to three weeks. [Workshops page](https://creeksidepottery.com.au/workshops/)
 
 **Good for:** a fully finished, fired piece rather than air-dry clay. Allow for the collection time if you're making Christmas gifts.
 
