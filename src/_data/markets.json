@@ -1,34 +1,285 @@
 {
-  "checked": "5 November 2026",
+  "checked": "6 November 2026",
   "events": [
-    {"date":"2026-11-07","day":"Sat 7 Nov","name":"Christmas Craft Retreat (pottery, ceramic painting, candles, resin)","venue":"Glen Wardle Ceramics studio, Carina","time":"8.30am–5pm","type":"workshop","note":"Ticketed full-day workshop.","source":"https://www.glenwardleceramics.com.au/retreats"},
-    {"date":"2026-11-13","day":"Fri 13 Nov","name":"BrisStyle Twilight Market","venue":"King George Square, Brisbane City","time":"4pm–9pm","type":"twilight","note":"100% locally handmade stalls, food trucks.","source":"https://www.brisstyle.com.au/brisstyle-twilight-market/"},
-    {"date":"2026-11-13","day":"Fri 13 Nov","name":"Reindeer clay workshop","venue":"Creekside Pottery Studio, Samford Valley","time":"6.30pm–9pm","type":"workshop","note":"Ticketed; pieces fired and collected 2–3 weeks later.","source":"https://creeksidepottery.com.au/workshops/"},
-    {"date":"2026-11-14","day":"Sat 14 Nov","name":"Kokedama Vessel clay workshop, Part 1","venue":"Creekside Pottery Studio, Samford Valley","time":"1pm–3.30pm","type":"workshop","note":"Ticketed; Part 2 (the kokedama) is at a separate venue.","source":"https://creeksidepottery.com.au/workshops/"},
-    {"date":"2026-11-20","day":"Fri 20 Nov","name":"Christmas Candle workshop (clay)","venue":"Creekside Pottery Studio, Samford Valley","time":"6.30pm–9pm","type":"workshop","note":"Ticketed; make two clay Christmas candles. Pieces are fired and collected later.","source":"https://creeksidepottery.com.au/workshops/"},
-    {"date":"2026-11-21","day":"Sat 21 Nov","name":"Christmas Tree clay workshop","venue":"Creekside Pottery Studio, Samford Valley","time":"1pm–4pm","type":"workshop","note":"Ticketed; pieces fired and collected later.","source":"https://creeksidepottery.com.au/workshops/"},
-    {"date":"2026-11-22","day":"Sun 22 Nov","name":"The Market Folk at Riverlink","venue":"Riverlink, North Ipswich","time":"8.30am–3pm","type":"market","note":"Dogs not permitted at Riverlink.","source":"https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"},
-    {"date":"2026-11-27","day":"Fri 27 Nov","name":"King Street Christmas Twilight Market","venue":"King Street, Bowen Hills","time":"4pm–9pm","type":"twilight","note":"Free entry; dogs on lead welcome.","source":"https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"},
-    {"date":"2026-11-27","day":"Fri 27 Nov","name":"Christmas Gnomes clay workshop","venue":"Creekside Pottery Studio, Samford Valley","time":"6.30pm–9pm","type":"workshop","note":"Ticketed; second session Sat 5 Dec.","source":"https://creeksidepottery.com.au/workshops/"},
-    {"date":"2026-11-28","day":"Sat 28 Nov","name":"BrisStyle Handmade Market","venue":"Queensland Museum Whale Mall, South Bank","time":"10am–3pm","type":"market","note":"Free entry.","source":"https://www.brisstyle.com.au/handmade-markets-whale-mall/"},
-    {"date":"2026-11-28","day":"Sat 28 Nov","name":"Kids Christmas Gnome clay workshop (ages 6–14)","venue":"Creekside Pottery Studio, Samford Valley","time":"9am–10.30am","type":"workshop","note":"Ticketed; under-8s need a parent or carer to stay.","source":"https://creeksidepottery.com.au/workshops/"},
-    {"date":"2026-11-29","day":"Sun 29 Nov","name":"Boggo Road Village Christmas Market","venue":"21 Boggo Road, Dutton Park","time":"9am–1pm","type":"market","note":"Free entry; dogs on lead welcome.","source":"https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"},
-    {"date":"2026-12-02","day":"Wed 2 Dec","name":"Heritage Lanes Christmas Market","venue":"80 Ann Street, Brisbane City","time":"11.30am–2.30pm","type":"market","note":"Lunchtime CBD market.","source":"https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"},
-    {"date":"2026-12-04","day":"Fri 4 Dec","name":"Gingerbread House clay workshop","venue":"Creekside Pottery Studio, Samford Valley","time":"6.30pm–9pm","type":"workshop","note":"Ticketed; check the collection date if it's a gift.","source":"https://creeksidepottery.com.au/workshops/"},
-    {"date":"2026-12-05","day":"Sat 5 Dec","name":"Gasworks Plaza Christmas Market","venue":"76 Skyring Terrace, Newstead","time":"9am–1pm","type":"market","note":"Santa Paws photos (paid add-on).","source":"https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"},
-    {"date":"2026-12-05","day":"Sat 5 Dec","name":"Christmas Gnomes clay workshop (second session)","venue":"Creekside Pottery Studio, Samford Valley","time":"1pm–3.30pm","type":"workshop","note":"Ticketed.","source":"https://creeksidepottery.com.au/workshops/"},
-    {"date":"2026-12-11","day":"Fri 11 Dec","name":"Boggo Road Village Christmas Twilight Market","venue":"21 Boggo Road, Dutton Park","time":"4pm–8pm","type":"twilight","note":"Free entry; dogs on lead welcome.","source":"https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"},
-    {"date":"2026-12-12","day":"Sat 12 Dec","name":"Gasworks Plaza Christmas Twilight Market","venue":"76 Skyring Terrace, Newstead","time":"4pm–8pm","type":"twilight","note":"Santa Paws photos (paid add-on).","source":"https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"},
-    {"date":"2026-12-12","day":"Sat 12 Dec","name":"Christmas Plates clay workshop","venue":"Creekside Pottery Studio, Samford Valley","time":"1pm–3.30pm","type":"workshop","note":"Ticketed; last workshop of the year.","source":"https://creeksidepottery.com.au/workshops/"},
-    {"date":"2026-12-18","day":"Fri 18 Dec","name":"BrisStyle Twilight Market","venue":"King George Square, Brisbane City","time":"4pm–9pm","type":"twilight","note":"","source":"https://www.brisstyle.com.au/brisstyle-twilight-market/"},
-    {"date":"2026-12-19","day":"Sat 19 Dec","name":"BrisStyle Handmade Market","venue":"Queensland Museum Whale Mall, South Bank","time":"10am–3pm","type":"market","note":"December date moved from last Saturday to the 19th.","source":"https://www.brisstyle.com.au/handmade-markets-whale-mall/"},
-    {"date":"2026-12-19","day":"Sat 19 Dec","name":"Portside Wharf Christmas Twilight Market","venue":"39 Hercules Street, Hamilton","time":"4pm–8pm","type":"twilight","note":"Riverside; free entry.","source":"https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"},
-    {"date":"2026-12-19","day":"Sat 19 Dec","name":"The Market Folk at Riverlink","venue":"Riverlink, North Ipswich","time":"9am–9pm","type":"market","note":"Dogs not permitted at Riverlink.","source":"https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"}
+    {
+      "date": "2026-11-07",
+      "day": "Sat 7 Nov",
+      "name": "Christmas Craft Retreat (pottery, ceramic painting, candles, resin)",
+      "venue": "Glen Wardle Ceramics studio, Carina",
+      "time": "8.30am–5pm",
+      "type": "workshop",
+      "note": "Ticketed full-day workshop.",
+      "source": "https://www.glenwardleceramics.com.au/retreats"
+    },
+    {
+      "date": "2026-11-13",
+      "day": "Fri 13 Nov",
+      "name": "BrisStyle Twilight Market",
+      "venue": "King George Square, Brisbane City",
+      "time": "4pm–9pm",
+      "type": "twilight",
+      "note": "100% locally handmade stalls, food trucks.",
+      "source": "https://www.brisstyle.com.au/brisstyle-twilight-market/"
+    },
+    {
+      "date": "2026-11-13",
+      "day": "Fri 13 Nov",
+      "name": "Reindeer clay workshop",
+      "venue": "Creekside Pottery Studio, Samford Valley",
+      "time": "6.30pm–9pm",
+      "type": "workshop",
+      "note": "Ticketed; pieces fired and collected 2–3 weeks later.",
+      "source": "https://creeksidepottery.com.au/workshops/"
+    },
+    {
+      "date": "2026-11-14",
+      "day": "Sat 14 Nov",
+      "name": "Kokedama Vessel clay workshop, Part 1",
+      "venue": "Creekside Pottery Studio, Samford Valley",
+      "time": "1pm–3.30pm",
+      "type": "workshop",
+      "note": "Ticketed; Part 2 (the kokedama) is at a separate venue.",
+      "source": "https://creeksidepottery.com.au/workshops/"
+    },
+    {
+      "date": "2026-11-14",
+      "day": "Sat 14 Nov",
+      "name": "Ceramic Makers Market",
+      "venue": "Clayfield College Hall, Bayview Terrace, Clayfield",
+      "time": "9am–2pm",
+      "type": "market",
+      "note": "Free entry; street parking; food & coffee onsite. Queensland ceramic artists.",
+      "source": "https://www.brisstyle.com.au/ceramic-makers-market-2/"
+    },
+    {
+      "date": "2026-11-15",
+      "day": "Sun 15 Nov",
+      "name": "Ceramic Makers Market",
+      "venue": "Clayfield College Hall, Bayview Terrace, Clayfield",
+      "time": "9am–2pm",
+      "type": "market",
+      "note": "Free entry; street parking; food & coffee onsite. Queensland ceramic artists.",
+      "source": "https://www.brisstyle.com.au/ceramic-makers-market-2/"
+    },
+    {
+      "date": "2026-11-20",
+      "day": "Fri 20 Nov",
+      "name": "Christmas Candle workshop (clay)",
+      "venue": "Creekside Pottery Studio, Samford Valley",
+      "time": "6.30pm–9pm",
+      "type": "workshop",
+      "note": "Ticketed; make two clay Christmas candles. Pieces are fired and collected later.",
+      "source": "https://creeksidepottery.com.au/workshops/"
+    },
+    {
+      "date": "2026-11-21",
+      "day": "Sat 21 Nov",
+      "name": "Christmas Tree clay workshop",
+      "venue": "Creekside Pottery Studio, Samford Valley",
+      "time": "1pm–4pm",
+      "type": "workshop",
+      "note": "Ticketed; pieces fired and collected later.",
+      "source": "https://creeksidepottery.com.au/workshops/"
+    },
+    {
+      "date": "2026-11-22",
+      "day": "Sun 22 Nov",
+      "name": "The Market Folk at Riverlink",
+      "venue": "Riverlink, North Ipswich",
+      "time": "8.30am–3pm",
+      "type": "market",
+      "note": "Dogs not permitted at Riverlink.",
+      "source": "https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"
+    },
+    {
+      "date": "2026-11-27",
+      "day": "Fri 27 Nov",
+      "name": "King Street Christmas Twilight Market",
+      "venue": "King Street, Bowen Hills",
+      "time": "4pm–9pm",
+      "type": "twilight",
+      "note": "Free entry; dogs on lead welcome.",
+      "source": "https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"
+    },
+    {
+      "date": "2026-11-27",
+      "day": "Fri 27 Nov",
+      "name": "Christmas Gnomes clay workshop",
+      "venue": "Creekside Pottery Studio, Samford Valley",
+      "time": "6.30pm–9pm",
+      "type": "workshop",
+      "note": "Ticketed; second session Sat 5 Dec.",
+      "source": "https://creeksidepottery.com.au/workshops/"
+    },
+    {
+      "date": "2026-11-28",
+      "day": "Sat 28 Nov",
+      "name": "BrisStyle Handmade Market",
+      "venue": "Queensland Museum Whale Mall, South Bank",
+      "time": "10am–3pm",
+      "type": "market",
+      "note": "Free entry.",
+      "source": "https://www.brisstyle.com.au/handmade-markets-whale-mall/"
+    },
+    {
+      "date": "2026-11-28",
+      "day": "Sat 28 Nov",
+      "name": "Kids Christmas Gnome clay workshop (ages 6–14)",
+      "venue": "Creekside Pottery Studio, Samford Valley",
+      "time": "9am–10.30am",
+      "type": "workshop",
+      "note": "Ticketed; under-8s need a parent or carer to stay.",
+      "source": "https://creeksidepottery.com.au/workshops/"
+    },
+    {
+      "date": "2026-11-29",
+      "day": "Sun 29 Nov",
+      "name": "Boggo Road Village Christmas Market",
+      "venue": "21 Boggo Road, Dutton Park",
+      "time": "9am–1pm",
+      "type": "market",
+      "note": "Free entry; dogs on lead welcome.",
+      "source": "https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"
+    },
+    {
+      "date": "2026-12-02",
+      "day": "Wed 2 Dec",
+      "name": "Heritage Lanes Christmas Market",
+      "venue": "80 Ann Street, Brisbane City",
+      "time": "11.30am–2.30pm",
+      "type": "market",
+      "note": "Lunchtime CBD market.",
+      "source": "https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"
+    },
+    {
+      "date": "2026-12-04",
+      "day": "Fri 4 Dec",
+      "name": "Gingerbread House clay workshop",
+      "venue": "Creekside Pottery Studio, Samford Valley",
+      "time": "6.30pm–9pm",
+      "type": "workshop",
+      "note": "Ticketed; check the collection date if it's a gift.",
+      "source": "https://creeksidepottery.com.au/workshops/"
+    },
+    {
+      "date": "2026-12-05",
+      "day": "Sat 5 Dec",
+      "name": "Christmas Gnomes clay workshop (second session)",
+      "venue": "Creekside Pottery Studio, Samford Valley",
+      "time": "1pm–3.30pm",
+      "type": "workshop",
+      "note": "Ticketed.",
+      "source": "https://creeksidepottery.com.au/workshops/"
+    },
+    {
+      "date": "2026-12-05",
+      "day": "Sat 5 Dec",
+      "name": "Gasworks Plaza Christmas Market",
+      "venue": "76 Skyring Terrace, Newstead",
+      "time": "9am–1pm",
+      "type": "market",
+      "note": "Santa Paws photos (paid add-on).",
+      "source": "https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"
+    },
+    {
+      "date": "2026-12-11",
+      "day": "Fri 11 Dec",
+      "name": "Boggo Road Village Christmas Twilight Market",
+      "venue": "21 Boggo Road, Dutton Park",
+      "time": "4pm–8pm",
+      "type": "twilight",
+      "note": "Free entry; dogs on lead welcome.",
+      "source": "https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"
+    },
+    {
+      "date": "2026-12-12",
+      "day": "Sat 12 Dec",
+      "name": "Christmas Plates clay workshop",
+      "venue": "Creekside Pottery Studio, Samford Valley",
+      "time": "1pm–3.30pm",
+      "type": "workshop",
+      "note": "Ticketed; last workshop of the year.",
+      "source": "https://creeksidepottery.com.au/workshops/"
+    },
+    {
+      "date": "2026-12-12",
+      "day": "Sat 12 Dec",
+      "name": "Gasworks Plaza Christmas Twilight Market",
+      "venue": "76 Skyring Terrace, Newstead",
+      "time": "4pm–8pm",
+      "type": "twilight",
+      "note": "Santa Paws photos (paid add-on).",
+      "source": "https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"
+    },
+    {
+      "date": "2026-12-18",
+      "day": "Fri 18 Dec",
+      "name": "BrisStyle Twilight Market",
+      "venue": "King George Square, Brisbane City",
+      "time": "4pm–9pm",
+      "type": "twilight",
+      "note": "",
+      "source": "https://www.brisstyle.com.au/brisstyle-twilight-market/"
+    },
+    {
+      "date": "2026-12-19",
+      "day": "Sat 19 Dec",
+      "name": "BrisStyle Handmade Market",
+      "venue": "Queensland Museum Whale Mall, South Bank",
+      "time": "10am–3pm",
+      "type": "market",
+      "note": "December date moved from last Saturday to the 19th.",
+      "source": "https://www.brisstyle.com.au/handmade-markets-whale-mall/"
+    },
+    {
+      "date": "2026-12-19",
+      "day": "Sat 19 Dec",
+      "name": "Portside Wharf Christmas Twilight Market",
+      "venue": "39 Hercules Street, Hamilton",
+      "time": "4pm–8pm",
+      "type": "twilight",
+      "note": "Riverside; free entry.",
+      "source": "https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"
+    },
+    {
+      "date": "2026-12-19",
+      "day": "Sat 19 Dec",
+      "name": "The Market Folk at Riverlink",
+      "venue": "Riverlink, North Ipswich",
+      "time": "9am–9pm",
+      "type": "market",
+      "note": "Dogs not permitted at Riverlink.",
+      "source": "https://themarketfolk.com.au/blogs/blog/christmas-markets-brisbane-2026"
+    }
   ],
   "weekly": [
-    {"name":"The Collective Markets","venue":"Little Stanley Street, South Bank","time":"Fri 5pm–9pm, Sat 10am–9pm, Sun 9am–4pm","note":"Makers, designers and food. Closed for Riverfire and New Year's Eve.","source":"https://www.collectivemarkets.com.au/visit"},
-    {"name":"West End Markets","venue":"Davies Park, West End","time":"Saturdays from 6am (official page says to 2pm; some listings say to 1pm Dec–Feb)","note":"Produce, food, fashion and handcrafted gifts.","source":"https://www.westendmarket.com.au/"},
-    {"name":"Northey Street Organic Farmers Market","venue":"Northey Street City Farm, 16 Victoria Street, Windsor","time":"Sundays 6am–11am","note":"Organic produce market; good for a morning before a craft session.","source":"https://www.nscf.org.au/organic-farmers-market/"},
-    {"name":"Clay and Sip pottery sessions (Wesley Taylor Art Studios)","venue":"Level 1, 91 Queen Street, Brisbane City","time":"Fridays 6.30pm–8.30pm","note":"Ticketed beginner hand-building class.","source":"https://visit.brisbane.qld.au/whats-on/inner-city/eat-and-drink-events/clay-and-sip-pottery-sessions-f9ad"}
+    {
+      "name": "The Collective Markets",
+      "venue": "Little Stanley Street, South Bank",
+      "time": "Fri 5pm–9pm, Sat 10am–9pm, Sun 9am–4pm",
+      "note": "Makers, designers and food. Closed for Riverfire and New Year's Eve.",
+      "source": "https://www.collectivemarkets.com.au/visit"
+    },
+    {
+      "name": "West End Markets",
+      "venue": "Davies Park, West End",
+      "time": "Saturdays from 6am (official page says to 2pm; some listings say to 1pm Dec–Feb)",
+      "note": "Produce, food, fashion and handcrafted gifts.",
+      "source": "https://www.westendmarket.com.au/"
+    },
+    {
+      "name": "Northey Street Organic Farmers Market",
+      "venue": "Northey Street City Farm, 16 Victoria Street, Windsor",
+      "time": "Sundays 6am–11am",
+      "note": "Organic produce market; good for a morning before a craft session.",
+      "source": "https://www.nscf.org.au/organic-farmers-market/"
+    },
+    {
+      "name": "Clay and Sip pottery sessions (Wesley Taylor Art Studios)",
+      "venue": "Level 1, 91 Queen Street, Brisbane City",
+      "time": "Fridays 6.30pm–8.30pm",
+      "note": "Ticketed beginner hand-building class.",
+      "source": "https://visit.brisbane.qld.au/whats-on/inner-city/eat-and-drink-events/clay-and-sip-pottery-sessions-f9ad"
+    }
   ]
 }
